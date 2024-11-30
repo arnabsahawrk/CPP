@@ -1,0 +1,5 @@
+Riya 1 24 100
+Sagorika 2 24 95
+Suchi 3 24 92
+Riya 4 24 90
+Arnab 5 25 90
